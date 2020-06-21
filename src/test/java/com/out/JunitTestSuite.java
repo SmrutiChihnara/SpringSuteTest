@@ -1,14 +1,15 @@
 package com.out;
 
+
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
-@RunWith(Suite.class)
+    @RunWith(Suite.class)
 
-@Suite.SuiteClasses({
-        TestJunit1.class,
-        TestJunit2.class
-})
+    @Suite.SuiteClasses({
+            TestJunit1.class,
+            TestJunit2.class
+    })
 
-public class JunitTestSuite {
-}
+    public  class JunitTestSuite {
+    }
