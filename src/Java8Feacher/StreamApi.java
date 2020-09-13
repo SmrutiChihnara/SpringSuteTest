@@ -1,5 +1,4 @@
 package Java8Feacher ;
-import ArrayExample.Arra;
 
 import java.util.*;
 import java.util.stream.Collectors;

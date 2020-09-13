@@ -1,7 +1,5 @@
 package SortingAlgo;
 
-import ArrayExample.Arra;
-
 import java.util.Arrays;
 
 public class BubbleSort {
