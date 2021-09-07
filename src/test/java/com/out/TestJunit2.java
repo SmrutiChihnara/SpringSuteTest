@@ -15,5 +15,6 @@ public class TestJunit2 {
         System.out.println("Inside testSalutationMessage()");
         message = "Hi!" + "Robert";
         assertEquals(message,messageUtil.salutationMessage());
+        shshddjkjdkjk
     }
 }
