@@ -14,5 +14,6 @@ public class TestJunit1 {
     public void testPrintMessage() {
         System.out.println("Inside testPrintMessage()");
         assertEquals(message, messageUtil.printMessage());
+        test
     }
 }
